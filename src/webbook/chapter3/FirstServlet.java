@@ -46,7 +46,7 @@ public class FirstServlet extends HttpServlet {
 		out.println("  <BODY>");
 		out.print("    This is ");
 		out.print(this.getClass());
-		out.println(", using the GET method");
+		out.println(", using the GET kjkumethod");
 		out.println("  </BODY>");
 		out.println("</HTML>");
 		out.flush();
